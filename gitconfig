@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = stephania.provot@orange.fr
+	name = stephania mayoute
